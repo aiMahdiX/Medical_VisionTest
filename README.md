@@ -242,7 +242,7 @@ Contributions are welcome! Please:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 👨‍💻 Author
 
@@ -276,7 +276,7 @@ For issues, questions, or suggestions:
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
 **Version**: 1.0.0
 **Maintained by**: [aiMahdiX](https://github.com/aiMahdiX)
 
